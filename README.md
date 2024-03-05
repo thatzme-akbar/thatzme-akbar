@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thatzme-akbar
-- 👀 I’m interested in Blockchain and Data analysis
+- 👀 I’m interested in Cybersecurity and AI
 - 🌱 I’m currently learning Artificial Inteligence and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn
